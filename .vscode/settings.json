@@ -1,0 +1,10 @@
+{
+  "fiveServer.browser": [
+
+  ],
+  "fiveServer.highlight": false,
+  "fiveServer.ignore": [
+    "index.js",
+    
+  ]
+}
